@@ -23,7 +23,13 @@ public class Menu extends AppCompatActivity {
 
                 startActivity(in);
 
+                setContentView(R.layout.activity_tela_creditos);
+                View ButtonIrCreditos = findViewById(R.id.buttonIrCreditos);
+
+                View buttonIrCreditos;
+
+
             }
-        });
-    }
-}
+        });}}
+
+
